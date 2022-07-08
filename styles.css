@@ -6,7 +6,7 @@
   
   body{
   font-family: 'Roboto', sans-serif;
-    background-image: url(https://images.unsplash.com/photo-1611647832580-377268dba7cb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+    background-image: url(https://images.unsplash.com/photo-1606568156390-8f4edb5ef31f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
   
   }
   
@@ -16,8 +16,9 @@
   
   .container{
   text-align: center;
-  width: 400px;
-  margin: 0px auto;
+  margin: 40px auto;
+  max-width: 600px;
+  min-width: 300px;
   }
   
   .perfil{
